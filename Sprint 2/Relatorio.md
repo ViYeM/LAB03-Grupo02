@@ -80,27 +80,56 @@ Devido à falta de variação entre os dados (valores constantes nas variáveis)
 ## 6. Gráficos Gerados
 
 **RQ01** - Tamanho do PR × Status  
+- Todos os PRs têm tamanho praticamente 0 (sem alterações relevantes).
+- Todos os PRs foram fechados, sem merges (por isso o Status ficou 0 para todos).
+- Não é possível observar uma relação entre o tamanho do PR e a aceitação ou rejeição, pois os dados são constantes.
+
 ![Descrição da imagem](image/rq01_tamanho_pr_status.png)
 **RQ02** - Tempo de Análise × Status  
+- Existem variações no tempo (de poucas horas a mais de 40.000 horas!), todos os PRs têm Status 0.
+- Todos os PRs foram fechados sem merge.
+- Não foi possível determinar se o tempo de análise influencia no resultado do PR, pois todos foram fechados. 
+
 ![Descrição da imagem](image/rq02_tempo_status.png)
 **RQ03** - Tamanho da Descrição × Status  
+- Os tamanhos de descrição variam bastante (de 0 até mais de 60.000 caracteres!), mas o Status continua constante (0).
+- Muitos PRs têm descrições extensas, mas ainda assim foram fechados.
+- Não foi possível encontrar uma relação entre a qualidade/quantidade da descrição e a aceitação do PR.
+
 ![Descrição da imagem](image/rq03_descricao_status.png)
 **RQ04** - Número de Comentários × Status  
+- Quase todos os PRs têm 0 comentários de revisão.
+- Todos foram fechados.
+- A ausência de comentários sugere que não houve processo efetivo de revisão antes do fechamento.
+
 ![Descrição da imagem](image/rq04_comentarios_status.png)
 **RQ05** - Tamanho do PR × Número de Revisões  
+- Todos os PRs têm tamanho 0 e 0 comentários.
+- Praticamente sem atividade de revisão.
+- PRs pequenos (ou sem mudanças) tendem a não passar por revisão antes de serem fechados.
+
 ![Descrição da imagem](image/rq05_tamanho_pr_revisoes.png)
 **RQ06** - Tempo de Análise × Número de Revisões  
+- Mesmo com tempo de análise muito longo em alguns PRs, o número de comentários de revisão permaneceu 0.
+- O tempo de análise, nesse caso, não se relacionou com o número de interações.
+
 ![Descrição da imagem](image/rq06_tempo_revisoes.png)
 **RQ07** - Tamanho da Descrição × Número de Revisões  
+- Mesmo com tempo de análise muito longo em alguns PRs, o número de comentários de revisão permaneceu 0.
+- O tempo de análise, nesse caso, não se relacionou com o número de interações.
+
 ![Descrição da imagem](image/rq07_descricao_revisoes.png)
 **RQ08** - Número de Comentários × Número de Revisões
+- Uma linha reta indicando que todos os valores são 0.
+- Não houve atividade de revisão nos PRs analisados.
+
 ![Descrição da imagem](image/rq08_comentarios_revisoes.png)
 
 *Observação:* Os gráficos mostraram forte concentração de pontos, devido à homogeneidade dos dados.
 
 ---
 
-## 7. Conclusão
+## 7. Discussão dos Resultados
 
 A análise demonstrou que, para o conjunto de dados coletado, não foi possível identificar relações estatisticamente significativas entre as variáveis analisadas.
 
