@@ -1,0 +1,10 @@
+<script>start("/Users/vitorialinda/code-review-analysis/image/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("rq01_tamanho_pr_status.png","rq01_tamanho_pr_status.png",0,21481,"21.0 kB",1745801038,"27/04/2025, 21:43:58");</script>
+<script>addRow("rq02_tempo_status.png","rq02_tempo_status.png",0,23181,"22.6 kB",1745801038,"27/04/2025, 21:43:58");</script>
+<script>addRow("rq03_descricao_status.png","rq03_descricao_status.png",0,27595,"26.9 kB",1745801038,"27/04/2025, 21:43:58");</script>
+<script>addRow("rq04_comentarios_status.png","rq04_comentarios_status.png",0,22284,"21.8 kB",1745801039,"27/04/2025, 21:43:59");</script>
+<script>addRow("rq05_tamanho_pr_revisoes.png","rq05_tamanho_pr_revisoes.png",0,25213,"24.6 kB",1745801039,"27/04/2025, 21:43:59");</script>
+<script>addRow("rq06_tempo_revisoes.png","rq06_tempo_revisoes.png",0,26753,"26.1 kB",1745801039,"27/04/2025, 21:43:59");</script>
+<script>addRow("rq07_descricao_revisoes.png","rq07_descricao_revisoes.png",0,31166,"30.4 kB",1745801039,"27/04/2025, 21:43:59");</script>
+<script>addRow("rq08_comentarios_revisoes.png","rq08_comentarios_revisoes.png",0,26435,"25.8 kB",1745801039,"27/04/2025, 21:43:59");</script>
