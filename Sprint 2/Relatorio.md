@@ -80,7 +80,7 @@ Devido à falta de variação entre os dados (valores constantes nas variáveis)
 ## 6. Gráficos Gerados
 
 **RQ01** - Tamanho do PR × Status  
-![Descrição da imagem](code-review-analysis/Sprint 3/rq01_tamanho_pr_status.png)
+![Descrição da imagem](image/rq01_tamanho_pr_status.png)
 **RQ02** - Tempo de Análise × Status  
 **RQ03** - Tamanho da Descrição × Status  
 **RQ04** - Número de Comentários × Status  
