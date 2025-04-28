@@ -67,7 +67,7 @@ Devido à falta de variação entre os dados (valores constantes nas variáveis)
 | RQ | Relação Avaliada | Resultado | Observação |
 |:---|:----------------|:---------|:-----------|
 | RQ01 | Tamanho do PR × Status | Correlação não definida | Dados constantes |
-![Descrição da imagem](Sprint 3/rq01_tamanho_pr_status.png)
+![Descrição da imagem](/Users/vitorialinda/code-review-analysis/Sprint 3)
 | RQ02 | Tempo de Análise × Status | Correlação não definida | Dados constantes |
 | RQ03 | Tamanho da Descrição × Status | Correlação não definida | Dados constantes |
 | RQ04 | Número de Comentários × Status | Correlação não definida | Dados constantes |
