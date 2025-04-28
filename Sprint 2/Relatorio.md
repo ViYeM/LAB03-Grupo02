@@ -100,7 +100,7 @@ Devido à falta de variação entre os dados (valores constantes nas variáveis)
 
 ---
 
-## 7. Discussão dos Resultados
+## 7. Conclusão
 
 A análise demonstrou que, para o conjunto de dados coletado, não foi possível identificar relações estatisticamente significativas entre as variáveis analisadas.
 
