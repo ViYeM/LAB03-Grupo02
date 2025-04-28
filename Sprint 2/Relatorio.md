@@ -82,12 +82,19 @@ Devido à falta de variação entre os dados (valores constantes nas variáveis)
 **RQ01** - Tamanho do PR × Status  
 ![Descrição da imagem](image/rq01_tamanho_pr_status.png)
 **RQ02** - Tempo de Análise × Status  
+![Descrição da imagem](image/rq02_tempo_status.png)
 **RQ03** - Tamanho da Descrição × Status  
+![Descrição da imagem](image/rq03_descricao_status.png)
 **RQ04** - Número de Comentários × Status  
+![Descrição da imagem](image/rq04_comentarios_status.png)
 **RQ05** - Tamanho do PR × Número de Revisões  
+![Descrição da imagem](image/rq05_tamanho_pr_revisoes.png)
 **RQ06** - Tempo de Análise × Número de Revisões  
+![Descrição da imagem](image/rq06_tempo_revisoes.png)
 **RQ07** - Tamanho da Descrição × Número de Revisões  
+![Descrição da imagem](image/rq07_descricao_revisoes.png)
 **RQ08** - Número de Comentários × Número de Revisões
+![Descrição da imagem](image/rq08_comentarios_revisoes.png)
 
 *Observação:* Os gráficos mostraram forte concentração de pontos, devido à homogeneidade dos dados.
 
